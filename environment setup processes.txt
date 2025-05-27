@@ -1,0 +1,36 @@
+npm init vite 
+
+assigning the project name: client 
+
+select React 
+
+select JS
+
+cd client   
+  npm install 
+
+
+ npm install bootstrap axios react-router-dom
+
+
+  npm run dev 
+
+CREATE server FOLDER 
+
+cd server 
+
+npm init -y
+
+npm install express mongoose cors nodemon  
+
+CREATE A index.js FILE 
+
+GO TO THE package.json FILE 
+
+ON SCRIPT, WRITE: 
+,
+"start": "nodemon index.js"
+
+npm start 
+
+
